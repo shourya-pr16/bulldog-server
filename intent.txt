@@ -1,0 +1,18 @@
+ One project I would highly recommend, if you haven't done it already, is to build an HTTP web server from scratch.
+
+The server should serve static files, and as an extension, should allow you to define and serve APIs, like Flask. Use your favourite programming language, but build one from absolute scratch. It is a week-long project, but if you do it well, you will learn a ton of things, including,
+
+1. what protocols really are and the HTTP protocol
+2. writing a protocol parser - HTTP request lines and headers
+3. creating TCP sockets, binding to ports, and listening for connections
+4. reading and writing large data over sockets
+5. how servers handle headers and the actions they take
+6. handling multiple connections using threads and event loops
+7. hadling different paths to serve static files
+8. how to write route handlers to serve APIs
+
+Use LLMs, but make sure you understand the nuances.
+
+Trust me, you will have a great time building it, and more importantly, you will have a totally different outlook on engineering. You will stop thinking of something as blackbox and would start thinking of how X would have been implemented.
+
+This project is also on CodeCrafters, you can use my link and get a 40% off; link in the comments.
