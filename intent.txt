@@ -16,3 +16,7 @@ Use LLMs, but make sure you understand the nuances.
 Trust me, you will have a great time building it, and more importantly, you will have a totally different outlook on engineering. You will stop thinking of something as blackbox and would start thinking of how X would have been implemented.
 
 This project is also on CodeCrafters, you can use my link and get a 40% off; link in the comments.
+
+RFC link:
+    - https://www.rfc-editor.org/rfc/rfc7231
+    - https://www.rfc-editor.org/rfc/rfc9110 (latest)
